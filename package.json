@@ -8,7 +8,8 @@
     "start": "nodemon server/server.js"
   },
   "engines": {
-    "node": "8.11.3"
+    "node": "8.11.3",
+    "npm" : "5.6.0"
   },
   "author": "ben4code",
   "license": "ISC",
